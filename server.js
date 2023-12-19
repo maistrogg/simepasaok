@@ -52,7 +52,7 @@ app.use('/', webRoutes);
 
 // App init
 server.listen(appConfig.expressPort, () => {
-  console.log(`Server is listenning on ${appConfig.expressPort}! (http://localhost:${appConfig.expressPort})`);
+  console.log(`Server is listenning on ${appConfig.expressPort}! (https://ayudemeeeeee.onrender.com)`);
 });
 
 // var players = [];
